@@ -1,3 +1,4 @@
+It is a crud application with react where fake data is used .Here created fake database with the help of local server where async await is used.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
