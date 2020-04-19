@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Kamrul",
+      "username": "kamrul05",
+      "email": "kamrul121@gmail.com",
+      "phone": "5775664",
+      "website": "kamrul.com",
+      "id": 12
+    },
+    {
+      "name": "Samir",
+      "username": "samir05",
+      "email": "samir05@gmail.com",
+      "phone": "53453",
+      "website": "samir.com",
+      "id": 13
+    },
+    {
+      "name": "Arif",
+      "username": "Arif07",
+      "email": "arif@gmail.com",
+      "phone": "345234",
+      "website": "arif.com",
+      "id": 14
+    },
+    {
+      "name": "Hridoy Banik",
+      "username": "hridoy05",
+      "email": "hridoy.banik71@gmail.com",
+      "phone": "7687677897",
+      "website": "hridoy.com",
+      "id": 15
+    }
+  ]
+}
